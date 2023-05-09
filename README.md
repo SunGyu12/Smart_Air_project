@@ -11,6 +11,4 @@
 
 ### -QT
 ![image](https://user-images.githubusercontent.com/126065290/236663893-78e74aae-a8da-45c5-81b6-2e1900e9ae1c.png)
-=======
-# Smart_Air_project
->>>>>>> dee778f62572c3476cebe5211bc7f2d94f06daf7
+

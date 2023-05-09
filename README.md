@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Smart_Air_project
 
 ## 실내 공기 최적화 시스템
